@@ -1,6 +1,6 @@
-# Letreiro Digital - Next Lab 🚀
+# Letreiro Digital - Next Lab
 
-Protótipo de um letreiro digital contínuo (*scrolling*) desenvolvido para o Laboratório de Projetos Especiais (Next Lab). O projeto utiliza um microcontrolador ESP32-C3 para controlar um módulo de Matriz de LED 8x8.
+Protótipo de um letreiro digital contínuo (*scrolling*). O projeto utiliza um microcontrolador ESP32-C3 para controlar um módulo de Matriz de LED 8x8.
 
 ## 🛠️ Hardware Utilizado
 *   **Microcontrolador:** ESP32-C3 Super Mini
@@ -21,5 +21,4 @@ As bibliotecas utilizadas para a animação do letreiro foram:
 ## ⚙️ Como Executar
 1. Clone este repositório.
 2. Abra a pasta do projeto no VS Code com a extensão PlatformIO instalada.
-3. Certifique-se de forçar o ESP32-C3 a entrar em modo boot segurando o botão `BOOT` ao conectar o cabo USB.
-4. Faça o Build e Upload.
+3. Faça o Build e Upload.
